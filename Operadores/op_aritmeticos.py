@@ -18,4 +18,4 @@ resto = 12 % 5
 #type(dato) nos devuelve que tipo de dato es
 tipo_de_dato = type(division)
 
-print(tipo_de_dato)
+print(type(division_baja))
